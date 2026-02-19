@@ -1,14 +1,1 @@
-# Tech Stack Badges
-
-![MacOS](https://img.shields.io/badge/Platform-MacOS-blue.svg)
-![Android](https://img.shields.io/badge/Platform-Android-green.svg)
-![Web](https://img.shields.io/badge/Platform-Web-yellow.svg)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange.svg)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-lightgrey.svg)
-![CLI](https://img.shields.io/badge/Tool-CLI-blueviolet.svg)
-![Gemini](https://img.shields.io/badge/Framework-Gemini-purple.svg)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-orange.svg)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellowgreen.svg)
-![Flutter/Dart](https://img.shields.io/badge/Framework-Flutter/Dart-brightgreen.svg)
-![PHP](https://img.shields.io/badge/Language-PHP-blue.svg)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-red.svg)
+Hi, I'm Akinseye 👋📍 Ibadan ↔ London [1, 1] | 🤖 Polyagentmorous builder | 🚀 Founder of 360integree [1, 1]!(https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)!(https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)!(https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)!(https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)!(https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)Deep in vibe-coding mode – building AI-augmented digital ecosystems at ludicrous speed. After 14+ years bridging the gap between industrial design and software engineering, modern cross-platform development feels like a breath of fresh air.[1, 1]🚚 diasporadeliver.com.ng (proprietary) – Secure errand platform connecting Nigerians abroad with local verified vendors in Nigeria.Current Projects🕵️ (https://snoopiboard.com.ng) - The opportunity aggregator connecting talent with global sponsorships.🖼️ (https://play.google.com/store/apps/details?id=com.hdwallpall.app) - High-definition personalization for mobile ecosystems.🚕 (https://mayorlyteride.co.uk) - Professional 24/7 transportation and airport transfer platform for the UK market.
