@@ -1,6 +1,6 @@
 # Hi, I'm Akinseye 👋
 
-📍 **Ile-Oluji ↔ World** | 🤖 **Polyagentmorous builder** | 🚀 **360integree Innovative Project**
+📍 **Ile-Oluji ↔ World** | 🤖 **Product builder** | 🚀 **Founder 360integree Innovative Project**
 
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
